@@ -38,6 +38,8 @@ A privacy-safe UI concept for a recording studio journey, including responsive l
 
 `HTML` `CSS` `JavaScript` `Responsive UI` `Accessibility`
 
+[Open hosted UI demo](https://cmesa-dev.github.io/onastudio/)
+
 <img src="https://raw.githubusercontent.com/cmesa-dev/onastudio/main/docs/ona-preview.png" alt="ONA Studio sanitized UI preview" width="100%"/>
 
 ## Engineering Signals
