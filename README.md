@@ -102,6 +102,14 @@ Construyo software **robusto y escalable** — desde el frontend hasta las integ
 
 ---
 
+### 🐍 Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 📊 Stats
 
 <p align="center">
