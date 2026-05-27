@@ -102,10 +102,10 @@ Construyo software **robusto y escalable** — desde el frontend hasta las integ
 
 ---
 
-### 🐍 Contribuciones
+### 📅 Calendario de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/metrics/isocalendar.svg" alt="Isometric calendar"/>
 </p>
 
 ---
@@ -122,8 +122,29 @@ Construyo software **robusto y escalable** — desde el frontend hasta las integ
   <img src="https://streak-stats.demolab.com?user=cmesa-dev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" width="55%"/>
 </p>
 
+---
+
+### 💻 Lenguajes & 🧠 Hábitos de código
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cmesa-dev&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9" width="90%"/>
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/metrics/languages.svg" width="49%" alt="Languages"/>
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/metrics/habits.svg" width="49%" alt="Coding habits"/>
+</p>
+
+---
+
+### ⚡ Actividad reciente
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/metrics/activity.svg" alt="Recent activity"/>
+</p>
+
+---
+
+### 🐍 Historial de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cmesa-dev/cmesa-dev/output/snake-purple.svg" alt="snake animation"/>
 </p>
 
 ---
