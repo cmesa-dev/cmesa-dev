@@ -18,9 +18,11 @@ I am looking for software engineering roles on high-impact product teams where o
 
 ### [ScanOps - Inventory Operations Terminal](https://github.com/cmesa-dev/barcode-scanner)
 
-An end-to-end product slice for barcode-driven inventory movements: responsive React/TypeScript interface, Node.js REST API, SQLite persistence, transactional stock events, automated tests, Docker packaging and CI verification.
+An end-to-end product slice for barcode-driven inventory movements: responsive React/TypeScript interface, Node.js REST API, SQLite persistence, demo role enforcement, barcode camera support, automated tests, Lighthouse gates, Docker packaging, CI and a GitHub Pages interaction preview.
 
 `React` `TypeScript` `Node.js` `SQLite` `REST` `Docker` `GitHub Actions`
+
+[Open hosted UI demo](https://cmesa-dev.github.io/barcode-scanner/) | [Review architecture](https://github.com/cmesa-dev/barcode-scanner/blob/main/docs/architecture.md)
 
 <img src="https://raw.githubusercontent.com/cmesa-dev/barcode-scanner/main/docs/scanops-preview.png" alt="ScanOps inventory terminal preview" width="100%"/>
 
