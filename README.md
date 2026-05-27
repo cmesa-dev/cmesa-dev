@@ -6,6 +6,8 @@
   <a href="mailto:kmevi32@gmail.com"><img src="https://img.shields.io/badge/Email-kmevi32%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/carlosmesaviera"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Mesa%20Viera-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://cmesa-dev.github.io/cv/"><img src="https://img.shields.io/badge/CV-Ver%20online-6d28d9?style=flat-square&logo=read-the-docs&logoColor=white"/></a>
 </p>
 
 ## Software Engineering Portfolio
