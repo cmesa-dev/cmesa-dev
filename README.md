@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=5%2B+years+%E2%80%94+Accenture+%C2%B7+Deloitte+%C2%B7+Viewnext+(IBM);MuleSoft+Certified+%C2%B7+Salesforce+Associate;Full-Stack+%E2%80%94+TypeScript+%C2%B7+Python+%C2%B7+React;Building+KAMEia+%26+ezBeep+independently" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=5%2B+years+%E2%80%94+Accenture+%C2%B7+Deloitte+%C2%B7+Viewnext+(IBM);MuleSoft+Certified+%C2%B7+Salesforce+Associate;Full-Stack+%E2%80%94+TypeScript+%C2%B7+Python+%C2%B7+React;Building+KAME+%26+ezBeep+independently" />
 </p>
 
 ---
