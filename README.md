@@ -5,9 +5,9 @@
 <p align="center">
   <a href="mailto:kmevi32@gmail.com"><img src="https://img.shields.io/badge/Email-kmevi32%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/carlosmesaviera"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Mesa%20Viera-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-mesa-viera-747501197"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Mesa%20Viera-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://cmesa-dev.github.io/cv/"><img src="https://img.shields.io/badge/CV-online-6d28d9?style=flat-square&logo=read-the-docs&logoColor=white"/></a>
+  <a href="https://cmesa-dev.github.io/cv/es.html"><img src="https://img.shields.io/badge/CV-online-6d28d9?style=flat-square&logo=read-the-docs&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/📍_Sevilla-open_to_remote-22c55e?style=flat-square"/>
 </p>
@@ -119,9 +119,11 @@ Public demo slice of ezBeep. Barcode-driven inventory terminal with REST API, SQ
 <p align="center">
   <a href="mailto:kmevi32@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/carlosmesaviera"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carlos-mesa-viera-747501197"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://cmesa-dev.github.io/cv/"><img src="https://img.shields.io/badge/-Ver%20CV-6d28d9?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+  <a href="https://cmesa-dev.github.io/cv/es.html"><img src="https://img.shields.io/badge/-Ver%20CV%20ES-6d28d9?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://cmesa-dev.github.io/cv/index.html"><img src="https://img.shields.io/badge/-CV%20EN-6d28d9?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:111827&height=100&section=footer" width="100%"/>
