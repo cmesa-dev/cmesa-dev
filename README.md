@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:carlosmesaviera@gmail.com"><img src="https://img.shields.io/badge/Email-carlosmesaviera%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:cmesa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-cmesa.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/carlos-mesa-viera-747501197"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Mesa%20Viera-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
@@ -117,7 +117,7 @@ Public demo slice of ezBeep. Barcode-driven inventory terminal with REST API, SQ
 </p>
 
 <p align="center">
-  <a href="mailto:carlosmesaviera@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:cmesa.dev@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/carlos-mesa-viera-747501197"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
